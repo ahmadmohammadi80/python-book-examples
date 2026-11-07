@@ -1,0 +1,542 @@
+[
+  {
+    "file": "chapters/ch01_example01.py",
+    "chapter": 1,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch01_example02.py",
+    "chapter": 1,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch01_practice.py",
+    "chapter": 1,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch02_example01.py",
+    "chapter": 2,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch02_example02.py",
+    "chapter": 2,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch02_practice.py",
+    "chapter": 2,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch03_example01.py",
+    "chapter": 3,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch03_example02.py",
+    "chapter": 3,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch03_practice.py",
+    "chapter": 3,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch04_example01.py",
+    "chapter": 4,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch04_example02.py",
+    "chapter": 4,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch04_practice.py",
+    "chapter": 4,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch05_example01.py",
+    "chapter": 5,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch05_example02.py",
+    "chapter": 5,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch05_practice.py",
+    "chapter": 5,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch06_example01.py",
+    "chapter": 6,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch06_example02.py",
+    "chapter": 6,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch06_practice.py",
+    "chapter": 6,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch07_example01.py",
+    "chapter": 7,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch07_example02.py",
+    "chapter": 7,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch07_practice.py",
+    "chapter": 7,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch08_example01.py",
+    "chapter": 8,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch08_example02.py",
+    "chapter": 8,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch08_practice.py",
+    "chapter": 8,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch09_example01.py",
+    "chapter": 9,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch09_example02.py",
+    "chapter": 9,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch09_practice.py",
+    "chapter": 9,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch10_example01.py",
+    "chapter": 10,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch10_example02.py",
+    "chapter": 10,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch10_practice.py",
+    "chapter": 10,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch11_example01.py",
+    "chapter": 11,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch11_example02.py",
+    "chapter": 11,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch11_practice.py",
+    "chapter": 11,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch12_example01.py",
+    "chapter": 12,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch12_example02.py",
+    "chapter": 12,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch12_practice.py",
+    "chapter": 12,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch13_example01.py",
+    "chapter": 13,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch13_example02.py",
+    "chapter": 13,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch13_practice.py",
+    "chapter": 13,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch14_example01.py",
+    "chapter": 14,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch14_example02.py",
+    "chapter": 14,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch14_practice.py",
+    "chapter": 14,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch15_example01.py",
+    "chapter": 15,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch15_example02.py",
+    "chapter": 15,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch15_practice.py",
+    "chapter": 15,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch16_example01.py",
+    "chapter": 16,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch16_example02.py",
+    "chapter": 16,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch16_practice.py",
+    "chapter": 16,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch17_example01.py",
+    "chapter": 17,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch17_example02.py",
+    "chapter": 17,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch17_practice.py",
+    "chapter": 17,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch18_example01.py",
+    "chapter": 18,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch18_example02.py",
+    "chapter": 18,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch18_practice.py",
+    "chapter": 18,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch19_example01.py",
+    "chapter": 19,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch19_example02.py",
+    "chapter": 19,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch19_practice.py",
+    "chapter": 19,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch20_example01.py",
+    "chapter": 20,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch20_example02.py",
+    "chapter": 20,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch20_practice.py",
+    "chapter": 20,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch21_example01.py",
+    "chapter": 21,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch21_example02.py",
+    "chapter": 21,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch21_practice.py",
+    "chapter": 21,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch22_example01.py",
+    "chapter": 22,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch22_example02.py",
+    "chapter": 22,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch22_practice.py",
+    "chapter": 22,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch23_example01.py",
+    "chapter": 23,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch23_example02.py",
+    "chapter": 23,
+    "example": 2,
+    "requires_extra": "flask"
+  },
+  {
+    "file": "chapters/ch23_practice.py",
+    "chapter": 23,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch24_example01.py",
+    "chapter": 24,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch24_example02.py",
+    "chapter": 24,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch24_practice.py",
+    "chapter": 24,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch25_example01.py",
+    "chapter": 25,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch25_example02.py",
+    "chapter": 25,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch25_practice.py",
+    "chapter": 25,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch26_example01.py",
+    "chapter": 26,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch26_example02.py",
+    "chapter": 26,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch26_practice.py",
+    "chapter": 26,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch27_example01.py",
+    "chapter": 27,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch27_example02.py",
+    "chapter": 27,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch27_practice.py",
+    "chapter": 27,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch28_example01.py",
+    "chapter": 28,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch28_example02.py",
+    "chapter": 28,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch28_practice.py",
+    "chapter": 28,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch29_example01.py",
+    "chapter": 29,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch29_example02.py",
+    "chapter": 29,
+    "example": 2,
+    "requires_extra": "fastapi"
+  },
+  {
+    "file": "chapters/ch29_practice.py",
+    "chapter": 29,
+    "example": 3,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch30_example01.py",
+    "chapter": 30,
+    "example": 1,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch30_example02.py",
+    "chapter": 30,
+    "example": 2,
+    "requires_extra": null
+  },
+  {
+    "file": "chapters/ch30_practice.py",
+    "chapter": 30,
+    "example": 3,
+    "requires_extra": null
+  }
+]
